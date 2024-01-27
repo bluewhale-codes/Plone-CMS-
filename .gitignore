@@ -1,5 +1,3 @@
 requirements-mxdev.txt
-constraints-mxdev.txt
-sources/
-instance/
+
 venv/
